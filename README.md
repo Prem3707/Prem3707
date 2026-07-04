@@ -59,14 +59,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prem3707&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prem3707&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="top languages" />
+  <img height="165" src="https://github-readme-stats-iota-opal-67.vercel.app/api?username=Prem3707&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
+  <img height="165" src="https://github-readme-stats-iota-opal-67.vercel.app/api/top-langs?username=Prem3707&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="top languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prem3707&hide_border=true&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prem3707&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </p>
